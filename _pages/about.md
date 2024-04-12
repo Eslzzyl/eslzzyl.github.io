@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an undergraduate student major in Computer Science and Technology at HeFei University of Technology. I will graduate at June, 2024. And after that, I will join Learning & Vision Group of Key Laboratory for Multimedia Computing, School of Computer Science and Information Engineering, HeFei University of Technology, advised by [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
+I'm an undergraduate student major in Computer Science and Technology at HeFei University of Technology. I will graduate at June, 2024. And after that, I will join Learning & Vision Group of Key Laboratory for Multimedia Computing, School of Computer Science and Information Engineering, HeFei University of Technology. <!-- advised by [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home). -->
 
 My current research focuses on Computer Vision, especially on low-level vision tasks.
 
