@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an undergraduate student major in Computer Science and Technology at HeFei University of Technology. I will graduate at June, 2024. And after that, I will join Learning & Vision Group of Key Laboratory for Multimedia Computing, School of Computer Science and Information Engineering, HeFei University of Technology, advised by [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
+I am a Master student at the School of Computer Science and Information Engineering, HeFei University of Technology (HFUT), where I am affiliated with the Lab of Multimedia Computing (LMC) under the supervision of [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
 
-My current research focuses on Computer Vision (especially on low-level vision tasks) and perception of Autonomous Vehicles.
+My current research interests lie in multi-sensor fusion for autonomous driving perception technologies and deep learning-based image restoration and enhancement techniques. I also have a strong interest in generative deep learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -43,8 +43,6 @@ My current research focuses on Computer Vision (especially on low-level vision t
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-I am working for my first academic paper. 😑
-
 ## Conference Papers
 
 ## Journal Articles
@@ -57,7 +55,8 @@ I am working for my first academic paper. 😑
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - 2024.06 (now)*, Undergraduate, Computer Science and Technology, HeFei University of Technology
+- *2020.09 - 2024.06*, Undergraduate, Computer Science and Technology, HeFei University of Technology (XuanCheng Campus)
+- - *2024.09 - now*, Master Student, Computer Science and Technology, HeFei University of Technology
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
