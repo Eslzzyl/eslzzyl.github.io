@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student at the School of Computer Science and Information Engineering, HeFei University of Technology (HFUT), where I am affiliated with the Lab of Multimedia Computing (LMC) under the supervision of [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
+I am a Master student at the School of Computer Science and Information Engineering, Hefei University of Technology (HFUT), where I am affiliated with the Lab for Media Computing ([LMC](https://ci.hfut.edu.cn/info/1162/14469.htm)) under the supervision of [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
 
 My current research interests lie in multi-sensor fusion for autonomous driving perception technologies and deep learning-based image restoration and enhancement techniques. I also have a strong interest in generative deep learning.
 
@@ -55,8 +55,8 @@ My current research interests lie in multi-sensor fusion for autonomous driving 
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate, Computer Science and Technology, HeFei University of Technology (XuanCheng Campus)
-- - *2024.09 - now*, Master Student, Computer Science and Technology, HeFei University of Technology
+- *2020.09 - 2024.06*, Undergraduate, Computer Science and Technology, Hefei University of Technology (Xuancheng Campus)
+- - *2024.09 - now*, Master Student, Computer Science and Technology, Hefei University of Technology
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
