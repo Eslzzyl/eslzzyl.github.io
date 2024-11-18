@@ -41,13 +41,13 @@ My current research interests lie in multi-sensor fusion for autonomous driving 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*, "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement," Computer Vision and Image Understanding (CVIU), Oct 2024. 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 ## Conference Papers
 
 ## Journal Articles
+
+- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*, "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement," Computer Vision and Image Understanding (CVIU), Oct 2024.
 
 ## Preprints
 
