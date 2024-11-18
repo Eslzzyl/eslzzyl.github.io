@@ -58,7 +58,7 @@ My current research interests lie in multi-sensor fusion for autonomous driving 
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Undergraduate, Computer Science and Technology, Hefei University of Technology (Xuancheng Campus)
-- - *2024.09 - now*, Master Student, Computer Science and Technology, Hefei University of Technology
+- *2024.09 - now*, Master Student, Computer Science and Technology, Hefei University of Technology
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
