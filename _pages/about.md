@@ -51,7 +51,7 @@ My current research interests lie in multi-sensor fusion for autonomous driving 
 
 ## Preprints
 
-- Jianzhao Wang, Yanyan Wei, Dehua Hu, Yilin Zhang, Shengeng Tang, Dan Guo, Zhao Zhang. A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+. June 2024. [[arxiv]](https://arxiv.org/abs/2406.05513)
+- Jianzhao Wang, Yanyan Wei, Dehua Hu, **Yilin Zhang**, Shengeng Tang, Dan Guo, Zhao Zhang. A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+. June 2024. [[arxiv]](https://arxiv.org/abs/2406.05513)
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
