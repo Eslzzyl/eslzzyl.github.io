@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student at the School of Computer Science and Information Engineering, Hefei University of Technology (HFUT), where I am affiliated with the Lab for Media Computing ([LMC](https://ci.hfut.edu.cn/info/1162/14469.htm)) under the supervision of [Prof. Zhao Zhang](https://sites.google.com/site/cszzhang/home).
 
-My current research interests lie in multi-sensor fusion for autonomous driving perception technologies and deep learning-based image restoration and enhancement techniques. I also have a strong interest in generative deep learning.
+My current research interests lie in large language models.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -45,13 +45,15 @@ My current research interests lie in multi-sensor fusion for autonomous driving 
 
 ## Conference Papers
 
+- **Yilin Zhang**, Yanyan Wei, Zhao Zhang, Jicong Fan, Haijun Zhang, Shuicheng Yan. "From Outline to Detail: An Hierarchical End-to-end Framework for Coherent and Consistent Visual Novel Generation and Assembly". ACM MM 2025.
+
 ## Journal Articles
 
-- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*, "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement," Computer Vision and Image Understanding (CVIU), Oct 2024.
+- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*. "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement". Computer Vision and Image Understanding (CVIU), Oct 2024.
 
 ## Preprints
 
-- Jianzhao Wang, Yanyan Wei, Dehua Hu, **Yilin Zhang**, Shengeng Tang, Dan Guo, Zhao Zhang. A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+. June 2024. [[arxiv]](https://arxiv.org/abs/2406.05513)
+- Jianzhao Wang, Yanyan Wei, Dehua Hu, **Yilin Zhang**, Shengeng Tang, Dan Guo, Zhao Zhang. "A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+". June 2024. [[arxiv]](https://arxiv.org/abs/2406.05513)
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
