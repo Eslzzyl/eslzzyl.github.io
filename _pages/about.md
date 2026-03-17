@@ -50,6 +50,7 @@ My current research interests lie in large language models.
 ## Journal Articles
 
 - Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*. "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement". Computer Vision and Image Understanding (CVIU), Oct 2024.
+- Yanyan Wei, **Yilin Zhang**, Huan Zheng*, Jiahuan Ren, Xiaogang Xu, Zenglin Shi, Zhao Zhang*, Meng Wang. "IAMAgent: Towards An Interactive and Adaptive Multi-Agent System for Image Restoration". IEEE Transactions on Image Processing (TIP), Mar 2026.
 
 ## Preprints
 
