@@ -46,11 +46,11 @@ My current research interests lie in large language models.
 ## Conference Papers
 
 - **Yilin Zhang**, Yanyan Wei, Zhao Zhang, Jicong Fan, Haijun Zhang, Shuicheng Yan. "From Outline to Detail: An Hierarchical End-to-end Framework for Coherent and Consistent Visual Novel Generation and Assembly". ACM MM 2025.
-- Yanyan Wei, **Yilin Zhang**, Lanqing Xue, Fei Wang, Kun Li, Zhao Zhang, Yang Zhao. "Multi-Agent Orchestration for Interactive Multimodal Storytelling in Visual-Novel-Style Adventure Games". CVPR 2026 Workshop Oral (Generative AI for Storytelling Track)
+- Yanyan Wei, **Yilin Zhang**, Lanqing Xue, Fei Wang, Kun Li, Zhao Zhang, Yang Zhao. "Multi-Agent Orchestration for Interactive Multimodal Storytelling in Visual-Novel-Style Adventure Games". CVPR 2026 Workshop Generative AI for Storytelling Track (Best Paper)
 
 ## Journal Articles
 
-- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*. "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement". Computer Vision and Image Understanding (CVIU), Oct 2024.
+- Yanyan Wei, **Yilin Zhang**, Zhao Zhang*, Kun Li, Fei Wang, Shengeng Tang*. "Leveraging Vision-language Prompts for Real-world Image Restoration and Enhancement". Computer Vision and Image Understanding (CVIU), Oct 2024.  
 - Yanyan Wei, **Yilin Zhang**, Huan Zheng*, Jiahuan Ren, Xiaogang Xu, Zenglin Shi, Zhao Zhang*, Meng Wang. "IAMAgent: Towards An Interactive and Adaptive Multi-Agent System for Image Restoration". IEEE Transactions on Image Processing (TIP), Mar 2026.
 
 ## Preprints
