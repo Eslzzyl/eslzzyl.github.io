@@ -66,3 +66,4 @@ My current research interests lie in large language models.
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2026.08 - now*, AI Application Platform Development Department, iFlytek.
